@@ -1,0 +1,29 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body {
+  background: #f0c20b;
+}
+
+h1,
+p {
+  text-align: center;
+  font-weight: 400;
+}
+
+.croissants-photo {
+  max-width: 100%;
+  border-radius: 20px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: rgb(255, 255, 254);
+}
